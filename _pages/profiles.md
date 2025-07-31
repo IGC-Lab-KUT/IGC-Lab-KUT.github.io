@@ -33,5 +33,5 @@ profiles:
     more_info: >
       <p> B.Tech in Computer Science & Engineering </p>
       <p> National Institute of Technology Meghalaya </p>
-      <p> raselmandol@gmail.com </p>
+      <p> raselmondle@gmail.com </p>
 ---
