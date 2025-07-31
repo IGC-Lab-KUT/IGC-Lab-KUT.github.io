@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://igc-lab-kut.github.io/sitemap.xml

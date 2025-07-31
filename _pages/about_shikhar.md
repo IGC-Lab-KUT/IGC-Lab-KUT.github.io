@@ -1,0 +1,3 @@
+**Dr. Shikhar Verma** is a Lecturer at the Graduate School of Engineering and the School of Information Science, Kochi University of Technology (KUT), Japan. He received his doctoral degree from Tohoku University in 2021. His research interests include Wireless Communication, Information Security, Internet of Things (IoT), and Satellite Communication and Computing.
+
+You can learn more about him through his [Google Scholar](https://scholar.google.com/citations?user=PeT97nEAAAAJ&hl=en&oi=ao) and [researchmap](https://researchmap.jp/shikhar.verma) profiles.
