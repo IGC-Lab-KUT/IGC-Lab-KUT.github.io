@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://igc-lab-kut.github.io/sitemap.xml
+Sitemap: https://IGC-Lab-KUT.github.io/sitemap.xml
