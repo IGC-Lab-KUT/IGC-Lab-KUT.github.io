@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This list is not a complete list of my projects that I have completed or ongoing; still, I am trying to include most of them here and will try to share updates about them frequently. 
+description: This page highlights selected research and development projects led by GIC-Lab. Our work spans wireless systems, intelligent networks, IoT, cyber-security, and energy-efficient communication. We regularly update this space to reflect our ongoing innovations, collaborations, and applied research outcomes. 
 nav: true
 nav_order: 3
-display_categories: [Research, work, fun]
+display_categories: [Research, Work, Tutorials]
 horizontal: false
 ---
 

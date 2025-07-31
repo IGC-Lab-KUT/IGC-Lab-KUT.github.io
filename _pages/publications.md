@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: I have one accepted paper at the 7th International Conference on Data Analytics and Cyber Security (DACS 2024), which has been submitted for publication in SN Computer Science journal. I am currently preparing to submit several other completed and ongoing manuscripts to reputed journals.
+description: GIC-Lab’s research contributions span a range of areas including wireless communication, IoT, edge computing, AI-driven network design, Secure Physical Layer Communications, Low-Altitude Economy Networking and cyber-security. Our recent works include energy-efficient communication protocols, intelligent spectrum sharing, and secure IoT architectures. The lab actively publishes in reputed venues and journals in the domains of communication systems and intelligent networks.
 nav: true
 nav_order: 2
 ---

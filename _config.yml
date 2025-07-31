@@ -3,21 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Md. Rasel
+first_name: GIC-Lab
 middle_name: 
-last_name: Mandol
+last_name: KUT
 contact_note: >
-  email and LinkedIn are the best ways to reach me.
+  email and LinkedIn are the best ways to reach us.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The personal website of Md. Rasel Mandol, featuring his works and interests in technology.
+  The website of the Global Intelligent Communication Laboratory (GIC-Lab), Kochi University of Technology (KUT).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: rasel-mandol, raselmandol, machine-learning, deep-learning, IoT, EdgeComputing, Cyber-Security # add your own keywords or leave empty
+keywords: GIC-Lab, Global-communication-lab, GIC-Lab-KUT, machine-learning, Wireless Communication, Energy-efficient communication, Information security, IoT, EdgeComputing, Cyber-Security # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://raselmandol.github.io # the base hostname & protocol for your site
+url: https://igc-lab-kut.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Rasel's Blog # blog_name will be displayed in your blog page
-blog_description: I write random things here. 
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: Updates, research notes, and tech thoughts from GIC-Lab.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -116,7 +116,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: raselm-github # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -256,7 +256,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["DNA", "RNA", "ML", "math", "code", "Deep Learning"] # these tags will be displayed on the front page of your blog
+display_tags: ["Wireless", "IoT", "AI", "Edge Computing", "Security", "ML", "Networks", "Signal Processing"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Mandol]
-  first_name: [Md Rasel, M. R.]
+  last_name: [Verma]
+  first_name: [Shikhar, S]
 
   style: apa
   locale: en
