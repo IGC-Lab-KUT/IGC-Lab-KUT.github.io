@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are happy to share that we presented our research to high school students of Japan during open campus event (2.08.2025 and 3.08.2025)
+We are delighted to share that we presented our research to high school students from across Japan during the Open Campus event held on August 2–3, 2025.
