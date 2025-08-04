@@ -4,7 +4,7 @@ title: GitHub Auditor
 description: A comprehensive GitHub repository analytics dashboard that automatically monitors and visualizes your GitHub repositories.
 img: assets/img/GitHub_Auditor.gif
 importance: 3
-category: fun
+category: General
 ---
 
 # GitHub Auditor

@@ -4,7 +4,7 @@ title: gptDesk
 description: This desktop application leverages the power of ChatGPT
 img: assets/img/gpt_desk.png
 importance: 1
-category: fun
+category: General
 ---
 
 

@@ -4,7 +4,7 @@ title: Floating Mascot
 description: A floating mascot app made with PyQt6. You can load animated GIFs or images.
 img: assets/img/floating_mascot.gif
 importance: 2
-category: fun
+category: General
 ---
 
 # floating-mascot
