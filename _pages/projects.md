@@ -5,7 +5,7 @@ permalink: /projects/
 description: This page highlights selected research and development projects led by GIC-Lab. Our work spans wireless systems, intelligent networks, IoT, cyber-security, and energy-efficient communication. We regularly update this space to reflect our ongoing innovations, collaborations, and applied research outcomes. 
 nav: true
 nav_order: 3
-display_categories: [Research, Work, Tutorials]
+display_categories: [Research, Work, Tutorials, General]
 horizontal: false
 ---
 
