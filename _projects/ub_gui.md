@@ -4,7 +4,7 @@ title: UB GUI
 description: UB GUI is a desktop application to give windows a look of Ubuntu.
 img: assets/img/ub_gui.png
 importance: 5
-category: work
+category: Work
 ---
 
 # UB GUI 

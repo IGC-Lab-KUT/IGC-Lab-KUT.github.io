@@ -4,7 +4,7 @@ title: ChatGPT Conversation Heatmap
 description: This project visualizes ChatGPT conversation activity in a GitHub-style heatmap.
 img: assets/img/chatgpt_heatmap.png
 importance: 4
-category: work
+category: Work
 
 ---
 

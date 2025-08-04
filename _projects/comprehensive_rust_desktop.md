@@ -4,7 +4,7 @@ title: Comprehensive Rust-bn
 description: Desktop application for Comprehensive Rust-bn built using electron js.
 img: assets/img/c_rust.png
 importance: 2
-category: work
+category: Work
 
 ---
 

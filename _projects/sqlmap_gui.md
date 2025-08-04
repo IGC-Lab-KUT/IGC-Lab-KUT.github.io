@@ -4,7 +4,7 @@ title: sqlmap-gui
 description: GUI for SQLMAP, a powerful tool for automated SQL injection
 img: assets/img/sqlmap_gui.gif
 importance: 1
-category: work
+category: Work
 
 ---
 
