@@ -114,6 +114,11 @@
                     {% endif %}
                   </a>
                 </li>
+                  {% if p.title == 'blog' or p.permalink == '/blog/' %}
+                  <li class="nav-item {% if page.url == '/news/' %}active{% endif %}">
+                    <a class="nav-link" href="/news/">news</a>
+                  </li>
+                  {% endif %}
               {% endif %}
             {% endif %}
           {% endfor %}
